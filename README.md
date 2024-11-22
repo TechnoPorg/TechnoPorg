@@ -6,4 +6,4 @@
 - 😄 **Pronouns:** Any
 - ⚡ **Fun fact:** I can bike without hands!
 
-For more on my projects and background, check out my website [my website](https://technoporg.github.io)!
+For more on my projects and background, check out [my website](https://technoporg.github.io)!
