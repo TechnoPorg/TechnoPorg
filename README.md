@@ -1,7 +1,9 @@
 ## Hi there! 🩷
 
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/jonah-janzen/). Failing that, carrier pigeon is a viable alternative.
-- 🔭 **Current Project:** Learning about the KDE development ecosystem.
+- 📫 **How to reach me:** Get in touch through my [LinkedIn](https://www.linkedin.com/in/jonah-janzen/), and I'll get back to you as soon as I can.
+- 🔭 **Current Project(s):** A tool to simplify partition management for Linux beginners, and a 3D fluid simulation addon for Godot.
 - 🌱 **Studying:** Software Engineering at the University of Waterloo.
-- 😄 **Pronouns:** ⭐*any*⭐ 🏳️‍⚧️
+- 😄 **Pronouns:** Any
 - ⚡ **Fun fact:** I can bike without hands!
+
+For more on my projects and background, check out my website [my website](https://technoporg.github.io)!
