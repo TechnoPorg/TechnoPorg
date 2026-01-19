@@ -1,6 +1,6 @@
 ## Hi there! 🩷
 
-- 📫 **How to reach me:** Send me an email at `mail@technop.org`.
+- 📫 **How to reach me:** Send me an email at `mail at technop dot org`.
 - 🔭 **Current Project(s):** Operese, a Windows-to-Linux translation tool.
 - 🌱 **Studying:** Mechatronics Engineering at the University of Waterloo.
 
